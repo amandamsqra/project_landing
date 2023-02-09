@@ -1,1 +1,1 @@
-this is a readme file and I'm writing it in to understand what is going on.
+This is a TOP project that had me emulate another website using only a screengrab of it.
