@@ -19,8 +19,15 @@ body {
 }
 
 .three {
-    background-color: grey;
-    
+    background-color: #e5e7eb;
+    padding: 100px;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+}
+
+.four {
+    padding: 20px;
 }
 
 .container{
@@ -116,6 +123,29 @@ li {
     color: #e5e7eb;
     background-color: #3882f6;
     border-color: white;
+    border-style: solid;
     padding: 10px 25px;
     font-size: 18px;
+}
+
+#rectangle{
+    display: flex;
+    color: white;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 50px;
+    margin-top: 100px;
+    font-size: 18px;
+    line-height: 10px;
+}
+
+.footer{
+    background-color: #1F2937;
+    max-width: 100%;
+    text-align: center;
+    margin-top: 100px;
+    color: #F9FAF8;
+    padding: 50px;
 }
